@@ -1,2 +1,2 @@
 # react-investment-prj
-Created with CodeSandbox
+Investment calculator demo project
